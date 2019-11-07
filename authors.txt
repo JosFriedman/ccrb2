@@ -1,0 +1,4 @@
+chjames = Chris James <chjames@doitt.nyc.gov>
+jbrisbane = Jennifer Brisbane <jbrisbane@doitt.nyc.gov>
+josfriedman = Joseph Friedman <josfriedman@doitt.nyc.gov>
+phthomas = P H Thomas <phthomas@doitt.nyc.gov>
